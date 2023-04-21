@@ -1,4 +1,4 @@
 env
 lab
-/log/*
+log/*
 __pycache__
