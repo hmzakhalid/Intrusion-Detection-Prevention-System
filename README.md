@@ -1,4 +1,5 @@
 # Intrusion Detection and Prevention System (IDPS)
+#### Author: [Hamza Khalid](https://github.com/hmzakhalid) 
 
 This project is a basic Intrusion Detection and Prevention System (IDPS) designed to monitor various activities on a host system, detect suspicious behavior, and alert the user to possible threats. The IDPS includes file system, network, and process monitoring, as well as anomaly detection features.
 
